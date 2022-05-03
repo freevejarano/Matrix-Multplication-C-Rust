@@ -1,0 +1,1 @@
+C:\Users\aleja\Documents\Arquitectura\ de\ Computadores\Matrix-Multplication-C-Rust\simpleRust\target\debug\simpleRust.exe: C:\Users\aleja\Documents\Arquitectura\ de\ Computadores\Matrix-Multplication-C-Rust\simpleRust\src\main.rs
