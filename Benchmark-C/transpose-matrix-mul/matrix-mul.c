@@ -65,16 +65,20 @@ int main(int argc, char **argv){
   matrixInit(N, N, b);
   matrixT(N, N, b, t);
 
+  /*
   matrixPrint(N, N, a);
   printf("\n");
   matrixPrint(N, N, b);
+  */
 
   sampleStart();
   matrixMul(N, a, t, c);
   sampleStop();
 
+  /*
   printf("\n");
   matrixPrint(N, N, c);
+  */
 
   printTime();
 
